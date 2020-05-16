@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerApi</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerApi.Controllers.WeatherForecastController.Get">
+            <summary>  Llamada al método Get</summary>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerApi.Controllers.WeatherForecastController.Post">
+            <summary>  Método que permite realizar la llamada a Post.</summary>
+            <returns>Devuelve un cadena hardcodeada</returns>
+        </member>
+    </members>
+</doc>
